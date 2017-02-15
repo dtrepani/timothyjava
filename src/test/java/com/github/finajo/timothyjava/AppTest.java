@@ -1,4 +1,4 @@
-package com.fina.maven.timothy_java;
+package com.github.finajo.timothyjava;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

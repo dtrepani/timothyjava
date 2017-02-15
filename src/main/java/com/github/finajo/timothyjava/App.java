@@ -1,4 +1,4 @@
-package com.fina.maven.timothy_java;
+package com.github.finajo.timothyjava;
 
 /**
  * Hello world!
